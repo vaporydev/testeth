@@ -1,4 +1,4 @@
-# testeth - Ethereum consensus test generator.
+# testeth - Vapory consensus test generator.
 
 This repository contains testeth, an Ethereum consensus test generator.
 
